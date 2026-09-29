@@ -1,0 +1,21 @@
+.env
+*.env
+!.env.example
+
+# Logs de leads (dados de cliente)
+logs/
+*.log
+leads_pp.txt
+
+# Backups e dumps
+*.sql
+*.bak
+*.old
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
