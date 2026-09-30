@@ -10,7 +10,7 @@ if (!isset($_SESSION['leads_autorizado']) || $_SESSION['leads_autorizado'] !== t
 
 require_once __DIR__ . '/ia/env.php';
 
-$caminho_log_relativo = env('IA_LOG_PATH', 'logs/leads_prevpecas.txt');
+$caminho_log_relativo = env('IA_LOG_PATH', 'logs/leads_pp.txt');
 $caminho_log = __DIR__ . '/' . ltrim($caminho_log_relativo, '/');
 
 $leads = [];
