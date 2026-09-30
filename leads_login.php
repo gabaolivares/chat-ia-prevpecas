@@ -3,7 +3,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-$SENHA_PAINEL = 'olivaresprev';
+$SENHA_PAINEL = 'sua_senha_aqui';
 
 $erro = '';
 
