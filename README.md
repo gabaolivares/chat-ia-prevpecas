@@ -149,13 +149,11 @@ Hospedagem compartilhada: configuração de .htaccess, permissões, cPanel
 👨‍💻 Autor
 Gabriel Olivares
 
-🎓 Estudante de Técnico em Informática — IFSP Campus Guarulhos
+🎓 Estudante de Técnico em Informática — IFSP - Campus Guarulhos
 
-💼 LinkedIn
+💼 linkedin.com/in/gabriel-olivares-ti/
 
 📧 olivaresgaba@gmail.com
-
-🐙 GitHub
 
 📄 Licença
 Este projeto está sob a licença MIT — consulte o arquivo LICENSE para mais detalhes.
